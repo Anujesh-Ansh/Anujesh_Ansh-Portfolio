@@ -5,3 +5,10 @@
 ### Topics Used here:-
 
 1. _Kaboom.js_ -> Used to create Games in javascript
+
+### Terminal Codes:-
+
+1. npm create vite@latest .
+2. npm install kaboom
+3. npm install terser
+4. npm -D install terser
