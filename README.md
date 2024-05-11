@@ -4,7 +4,7 @@
 
 ### Topics Used here:-
 
-1. _Kaboom.js_ -> Used to create Games in javascript
+1. _Kaboom.js_ -> Used to create Games in JavaScript
 
 ### Terminal Codes:-
 
