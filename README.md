@@ -1,14 +1,16 @@
-# _Hi Guys !!_
+# _👋 Hi Guys !!_
 
-## Myself _*Anujesh*_, nd here I am making my Portfolio in a form of 2D Game, similiar to Nitendo Pokemon Game
+## Myself _*Anujesh*_, and here I am crafting my Portfolio in the style of a 2D Game, reminiscent of Nintendo's Pokémon Game! 🎮
 
-### Topics Used here:-
+### 🚀 Topics Used Here:
 
-1. _Kaboom.js_ -> Used to create Games in JavaScript
+1. **Kaboom.js**: Leveraging the power of Kaboom.js to create captivating games in JavaScript! 🕹️
 
-### Terminal Codes:-
+### 💻 Terminal Codes:
 
-1. npm create vite@latest .
-2. npm install kaboom
-3. npm install terser
-4. npm -D install terser
+1. `npm create vite@latest .`
+2. `npm install kaboom`
+3. `npm install terser`
+4. `npm -D install terser`
+
+Get ready to embark on an exciting journey through my portfolio, where creativity meets interactivity! Let's level up together! 🌟
